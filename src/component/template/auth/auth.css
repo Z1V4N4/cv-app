@@ -1,0 +1,19 @@
+.auth {
+    background-image: url(https://img.freepik.com/free-vector/blue-copy-space-digital-background_23-2148821698.jpg?w=740&t=st=1688715532~exp=1688716132~hmac=c58f6026132ac7579c66447b15fe1651fccf29308844f4080f4e57c509cd85a3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login-box {
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    width: fit-content;
+}
+
+.sign-btn {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
